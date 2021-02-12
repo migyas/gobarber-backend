@@ -28,7 +28,7 @@ export default class CreateAppoitment1613007871872
             default: 'now()',
           },
           {
-            name: 'update_at',
+            name: 'updated_at',
             type: 'timestamp',
             default: 'now()',
           },
